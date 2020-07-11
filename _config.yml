@@ -29,7 +29,8 @@ twitter_username: codergann
 github_username:  codergann
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: poole/lanyon
 plugins:
   - jekyll-feed
 
