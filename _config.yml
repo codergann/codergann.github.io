@@ -29,7 +29,7 @@ twitter_username: codergann
 github_username:  codergann
 
 # Build settings
-theme: minima
+theme: jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
 
